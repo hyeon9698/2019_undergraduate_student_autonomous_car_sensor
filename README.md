@@ -1,7 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Dong's GitHub Pages
 
-아직 수정중
+아직 수정중 
 깃허브 페이지 - https://github.com/hyeon9698/2019_undergraduate_student_autonomous_car_sensor
+
+You may go ahead and see some matlab code used for my autonomous car.
 
 You can use the [editor on GitHub](https://github.com/hyeon9698/2019_undergraduate_student_autonomous_car_sensor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
