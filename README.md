@@ -28,6 +28,7 @@ Also there's PPT explaining algorithms used in matlab code.
 - COD_HOG 
 
 
-[Link](url) and ![Image]('TP,FP,FN.JPG')
+![TP,FP,FN](https://user-images.githubusercontent.com/41141851/95007939-3027d800-0650-11eb-80c4-ffadca063edd.JPG)
+
 
 
