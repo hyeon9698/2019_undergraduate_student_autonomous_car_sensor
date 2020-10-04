@@ -1,4 +1,4 @@
-## 2019.01.03 ~ 2019.03.01 undergraduate student study
+# 2019.01.03 ~ 2019.03.01 undergraduate student study
 
 github - https://github.com/hyeon9698/2019_undergraduate_student_autonomous_car_sensor
 
@@ -6,9 +6,18 @@ You may go ahead and see some matlab code used for my autonomous car.
 Also there's PPT for algorithm used in matlab code.
 
 
-## Matlab_Code
--
-## PPT
+### Matlab_Code
+- LSE_Ransac
+- Edge_detection
+- face_detection
+- car_detection
+- training
+- VJ_training_01
+- VJ_training_02
+- Deep_Learning_Example
+- matlab_stuff
+
+### PPT
 - RANSAC_01
 - RANSAC_02
 - Edge_detection
@@ -18,15 +27,10 @@ Also there's PPT for algorithm used in matlab code.
 - COD_HOG_Haar_LBP
 - COD_HOG 
 
-1. Numbered
-2. Listt
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
