@@ -3,7 +3,7 @@
 github - https://github.com/hyeon9698/2019_undergraduate_student_autonomous_car_sensor
 
 You may go ahead and see some matlab code used for my autonomous car.
-Also there's PPT for algorithm used in matlab code.
+Also there's PPT explaining algorithms used in matlab code.
 
 
 ### Matlab_Code
@@ -28,14 +28,6 @@ Also there's PPT for algorithm used in matlab code.
 - COD_HOG 
 
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image]('TP,FP,FN.JPG')
 
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hyeon9698/2019_undergraduate_student_autonomous_car_sensor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
