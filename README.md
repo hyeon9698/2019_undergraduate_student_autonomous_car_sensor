@@ -1,20 +1,15 @@
 ## Welcome to Dong's GitHub Pages
 
-아직 수정중 
 깃허브 페이지 - https://github.com/hyeon9698/2019_undergraduate_student_autonomous_car_sensor
 
 You may go ahead and see some matlab code used for my autonomous car.
 
 You can use the [editor on GitHub](https://github.com/hyeon9698/2019_undergraduate_student_autonomous_car_sensor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
