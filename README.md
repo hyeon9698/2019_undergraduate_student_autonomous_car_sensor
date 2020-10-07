@@ -29,5 +29,3 @@ Also there's PPT explaining algorithms used in matlab code.
 - COD_HOG_Haar_LBP
 - COD_HOG 
 
-
-
